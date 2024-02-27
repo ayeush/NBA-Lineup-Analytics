@@ -1,7 +1,0 @@
-cvxpy==1.4.2
-nba_api==1.4.1
-numpy==1.25.2
-pandas==2.2.1
-plotly==5.18.0
-plotly==5.19.0
-streamlit==1.12.0
