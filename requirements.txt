@@ -1,0 +1,6 @@
+cvxpy
+nba_api
+numpy
+pandas
+plotly
+streamlit
